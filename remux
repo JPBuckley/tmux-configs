@@ -1,11 +1,12 @@
 #!/bin/bash
 
 #####
-## First created by: Jason M. Green
-## gitHub:  
+## I would like to say a special thank you to a good friend and mentor
+##  for sharing this rather handy script with me many years ago!
+## 
+## Original Author by:  Jason Green
+## gitHub:  https://github.com/gJigsaw
 ## Twitter:  @gJigsaw
-##
-## Thank you friend for this rather handy script!
 #####
 
 if which tmux 2>&1 >/dev/null; then
